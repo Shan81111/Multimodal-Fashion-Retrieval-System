@@ -88,7 +88,6 @@ We used a filtered subset of the **Fashion200K** dataset focusing on "tops". The
 | black tank top                   | 0.65   | 0.99 | Semantically perfect but visually disjoint |
 | black v-neck sweater (honeycomb) | 0.63   | 0.88 | Poor visual match; semantic match preserved|
 
-*Refer to `clip_results_table.tex` for full table of results.*
 
 ---
 
